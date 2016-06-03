@@ -38,5 +38,6 @@
 ## Outline / Notes
 
 *  I've included the playground file. This lesson could range anywhere between 10-15 questions.
+* This should build in complexity giving them some easy wins with the first few questions. This probably could reach 20 questions if you feel you're cramming too much in the earlier questions to encompass all they learned.
 
 <a href='https://learn.co/lessons/ArrayMethodsLab' data-visibility='hidden'>View this lesson on Learn.co</a>
