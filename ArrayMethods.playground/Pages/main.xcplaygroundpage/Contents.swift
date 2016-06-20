@@ -56,7 +56,7 @@
 
 
 /*: question6
- ### 6. Add the two days of the weekend to the 'daysOfTheWeek array and create an enumarated loop to print the values.
+ ### 6. Add the two days of the weekend to the 'daysOfTheWeek array and create an enumerated loop to print the values.
  */
 // write your code here
 
@@ -80,7 +80,7 @@
 
 
 /*: question9
- ### 9. Check to see if the size of the array is greater than 5, i.e. contaisn the days of the weekend. If so, remove the days of the weekend from the array.
+ ### 9. Check to see if the size of the array is greater than 5, i.e. contains the days of the weekend. If so, remove the days of the weekend from the array.
  */
 // write your code here
 
