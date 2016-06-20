@@ -56,7 +56,7 @@
 
 
 /*: question6
- ### 6. Add the two days of the weekend to the 'daysOfTheWeek array and create an enumarated loop to print the values.
+ ### 6. Add the two days of the weekend to the 'daysOfTheWeek array and create an enumerated loop to print the values.
  */
 // write your code here
 
