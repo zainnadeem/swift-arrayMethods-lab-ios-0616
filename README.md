@@ -1,11 +1,11 @@
 # Loud Noises
 
-<img src="http://i.imgur.com/OFAoyrf.jpg?1" alt="Drawing" style="width: 200px;"/>  
+![Drawing](http://i.imgur.com/9iRxaHs.jpg?1) 
 
 
-> When someone tells me "no," it doesn't mean I can't do it, it simply means I can't do it with them.
+> When someone tells me "no," it doesn't mean I can't do it, it simply means I can't do it with them. -[Karen E. Quinones Miller](https://en.wikipedia.org/wiki/Karen_E._Quinones_Miller)
 
-## Learning Objectives - The student should be able to..
+## Learning Objectives
 
 * Use the following methods on arrays:
 	* `append()`
@@ -15,10 +15,17 @@
 	* `count`
 	* `isEmpty`
 	
- 
-## Outline / Notes
+## Instructions
 
-*  I've included the playground file. This lesson could range anywhere between 10-15 questions.
-* This should build in complexity giving them some easy wins with the first few questions. This probably could reach 20 questions if you feel you're cramming too much in the earlier questions to encompass all they learned.
+* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
+* There are no tests associated with this playground file.
+* The following two screenshots are included to assist you in case the file doesn't open right to the main.swift file (which it should by default).
+* Make sure you're working in the main.swift file (which you can view by pressing command + 0):
+
+![main](http://i.imgur.com/odAU8pd.png)
+* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
+
+![render](http://i.imgur.com/vCIhFbZ.png)
+ 
 
 <a href='https://learn.co/lessons/ArrayMethodsLab' data-visibility='hidden'>View this lesson on Learn.co</a>
