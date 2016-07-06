@@ -19,6 +19,9 @@
 
 
 
+
+
+
 /*: question2
  ### 2. Create an unchanging list for the five days of the week called 'numDaysOfTheWeek' and print each one by using a loop, prefixed by the position of the day of the week.
  */
@@ -27,10 +30,16 @@
 
 
 
+
+
+
 /*: question3
  ### 3. Create an empty array of strings called 'emptyArray' and check to see if it's empty, printing appropriate messages.
  */
 // write your code here
+
+
+
 
 
 
@@ -46,10 +55,16 @@
 
 
 
+
+
+
 /*: question5
  ### 5. Find out the size of the 'daysOfTheWeek' array created earlier, and print it to the screen.
  */
 // write your code here
+
+
+
 
 
 
@@ -63,10 +78,17 @@
 
 
 
+
+
+
 /*: question7
  ### 7. Some people start the week on a Sunday. Remove Sunday from the end of the 'daysOfTheWeek' array and then re-add it to the beginning of the array.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -79,13 +101,18 @@
 
 
 
+
+
+
+
 /*: question9
  ### 9. Check to see if the size of the array is greater than 5, i.e. contains the days of the weekend. If so, remove the days of the weekend from the array.
  */
 // write your code here
 
 
-/*:
- [Solution](solution)
- */
-// ❤️
+
+
+
+
+//: Check here on the solution branch for a link to the solutions
