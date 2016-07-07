@@ -16,7 +16,11 @@
  */
 // write your code here
 
+var fiveDaysOfTheWeek = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 
+for day in fiveDaysOfTheWeek{
+    print(day)
+}
 
 
 
@@ -26,6 +30,14 @@
  ### 2. Create an unchanging list for the five days of the week called 'numDaysOfTheWeek' and print each one by using a loop, prefixed by the position of the day of the week.
  */
 // write your code here
+
+let numDaysOfTheWeek = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+
+for (index, day) in numDaysOfTheWeek.enumerate(){
+    print("\(index + 1). \(day)")
+}
+
+
 
 
 
@@ -39,7 +51,9 @@
 // write your code here
 
 
+var emptyArray:[String] = []
 
+emptyArray.isEmpty
 
 
 
@@ -50,7 +64,9 @@
  */
 // write your code here
 
+var reverseEmptyArray:[String] = []
 
+!emptyArray.isEmpty
 
 
 
@@ -62,6 +78,8 @@
  ### 5. Find out the size of the 'daysOfTheWeek' array created earlier, and print it to the screen.
  */
 // write your code here
+
+print(fiveDaysOfTheWeek.count)
 
 
 
@@ -75,9 +93,12 @@
  */
 // write your code here
 
+fiveDaysOfTheWeek.append("Saturday")
+fiveDaysOfTheWeek.append("Sunday")
 
-
-
+for (index, day) in numDaysOfTheWeek.enumerate(){
+    print("\(index + 1). \(day)")
+}
 
 
 
@@ -86,6 +107,8 @@
  */
 // write your code here
 
+fiveDaysOfTheWeek.removeAtIndex(fiveDaysOfTheWeek.indexOf("Sunday")!)
+fiveDaysOfTheWeek.insert("Sunday", atIndex: 0)
 
 
 
@@ -97,7 +120,9 @@
  ### 8. Loop through the 'daysofTheWeek' array and change each value to lower case.
  */
 // write your code here
-
+for day in fiveDaysOfTheWeek{
+    day.lowercaseString
+}
 
 
 
@@ -109,9 +134,11 @@
  ### 9. Check to see if the size of the array is greater than 5, i.e. contains the days of the weekend. If so, remove the days of the weekend from the array.
  */
 // write your code here
-
-
-
+if fiveDaysOfTheWeek.count > 5 {
+    fiveDaysOfTheWeek.removeAtIndex(fiveDaysOfTheWeek.indexOf("Sunday")!)
+    fiveDaysOfTheWeek.removeAtIndex(fiveDaysOfTheWeek.indexOf("Saturday")!)
+    print(fiveDaysOfTheWeek)
+}
 
 
 
